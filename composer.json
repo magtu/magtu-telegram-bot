@@ -1,0 +1,11 @@
+{
+    "name": "lartie/magtu-telegram-bot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artie",
+            "email": "log.wil.log@gmail.com"
+        }
+    ],
+    "require": {}
+}
